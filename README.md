@@ -86,5 +86,6 @@ Full-stack e-commerce website with authentication, cart system, and order manage
 🐙 GitHub: https://github.com/Danishwali2069
 
 ---
-src="https://github.com/user-attachments/assets/e18a61f3-1c21-4ad5-8356-9572a099ca67" />
+<img width="1920" height="1080" alt="githubgif" src="https://github.com/user-attachments/assets/973a33b5-7e75-44b2-a2d2-f5bec7d44009" />
+
 ⭐ “Code. Learn. Build. Repeat.”
