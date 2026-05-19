@@ -10,7 +10,7 @@
 - 🎓 B.Tech CSE Student at P P Savani University
 - 💻 Building full-stack applications using MERN Stack
 - 🤖 Exploring AI/ML and Computer Vision with OpenCV & MediaPipe
-- 🌱 Currently learning advanced backend architecture and Next.js
+- 🌱 Currently learning AI/ML<img width="1920" height="1080" alt="githubgif" 
 - ⚡ Love solving real-world problems using technology
 
 ---
@@ -86,5 +86,5 @@ Full-stack e-commerce website with authentication, cart system, and order manage
 🐙 GitHub: https://github.com/Danishwali2069
 
 ---
-
+src="https://github.com/user-attachments/assets/e18a61f3-1c21-4ad5-8356-9572a099ca67" />
 ⭐ “Code. Learn. Build. Repeat.”
