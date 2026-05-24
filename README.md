@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danish Wali
+# 👋 Hi, I'm Md Danish Wali
 
 🚀 Frontend & MERN Stack Developer from India  
 🤖 Passionate about AI/ML, Computer Vision, and scalable web applications  
