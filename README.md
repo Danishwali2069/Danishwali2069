@@ -74,11 +74,13 @@ Full-stack e-commerce website with authentication, cart system, and order manage
 
 ## 🌐 Connect With Me
 
-📧 Email: danishwali3919@gmail.com
+Email: danishwali3919@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/danish-wali-160946278/
+LinkedIn: https://linkedin.com/in/danish-wali-160946278/
 
-🐙 GitHub: https://github.com/Danishwali2069
+GitHub: https://github.com/Danishwali2069
+
+Portfolio: https://danishwali2069.github.io/Portfolio/
 
 ---
 <img width="1920" height="1080" alt="githubgif" src="https://github.com/user-attachments/assets/973a33b5-7e75-44b2-a2d2-f5bec7d44009" />
