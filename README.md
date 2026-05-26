@@ -10,7 +10,7 @@
 - 🎓 B.Tech CSE Student at P P Savani University
 - 💻 Building full-stack applications using MERN Stack
 - 🤖 Exploring AI/ML and Computer Vision with OpenCV & MediaPipe
-- 🌱 Currently learning AI/ML<img width="1920" height="1080" alt="githubgif" 
+- 🌱 Currently learning AI/ML<img width="1920" height="1080" alt="githubgif">
 - ⚡ Love solving real-world problems using technology
 
 ---
