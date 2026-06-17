@@ -17,7 +17,8 @@
 -  Exploring AI/ML and Computer Vision with OpenCV & MediaPipe
 -  Currently learning AI/ML
 -  Love solving real-world problems using technology
-</p>  
+</p> 
+
 ---
 
 ##  Tech Stack
