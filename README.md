@@ -1,21 +1,25 @@
-# 👋 Hi, I'm Md Danish Wali
+<h1 align="center"> Hi, I'm Md Danish Wali</h1>
 
-🚀 Frontend & MERN Stack Developer from India  
-🤖 Passionate about AI/ML, Computer Vision, and scalable web applications  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Backend+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;BTech+CSE+Student" />
+</p>
 
----
-
-## 💫 About Me
-
-- 🎓 B.Tech CSE Student at P P Savani University
-- 💻 Building full-stack applications using MERN Stack
-- 🤖 Exploring AI/ML and Computer Vision with OpenCV & MediaPipe
-- 🌱 Currently learning AI/ML
-- ⚡ Love solving real-world problems using technology
+Frontend & MERN Stack Developer from India  
+Passionate about AI/ML, Computer Vision, and scalable web applications  
 
 ---
 
-## 🛠️ Tech Stack
+##  About Me
+
+-  B.Tech CSE Student at P P Savani University
+-  Building full-stack applications using MERN Stack
+-  Exploring AI/ML and Computer Vision with OpenCV & MediaPipe
+-  Currently learning AI/ML
+-  Love solving real-world problems using technology
+
+---
+
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,35 +48,35 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🚚 Transport Management System
+###  Transport Management System
 Truck driver management platform with route tracking, delivery task management, and trip monitoring.
 
 **Tech:** React.js, Node.js, MongoDB
 
 ---
 
-### 🖐️ AI Hand Gesture Cursor Control
+###  AI Hand Gesture Cursor Control
 Computer vision-based cursor control system using webcam hand tracking.
 
 **Tech:** Python, OpenCV, MediaPipe, PyAutoGUI
 
 ---
 
-### 🛒 Hot Wheels E-Commerce Platform
+###  Hot Wheels E-Commerce Platform
 Full-stack e-commerce website with authentication, cart system, and order management.
 
 **Tech:** React.js, Node.js, MongoDB
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Danishwali2069&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 Email: danishwali3919@gmail.com
 
@@ -85,4 +89,4 @@ Portfolio: https://danishwali2069.github.io/Portfolio/
 ---
 <img width="1920" height="1080" alt="githubgif" src="https://github.com/user-attachments/assets/973a33b5-7e75-44b2-a2d2-f5bec7d44009" />
 
-⭐ “Code. Learn. Build. Repeat.”
+ “Code. Learn. Build. Repeat.”
