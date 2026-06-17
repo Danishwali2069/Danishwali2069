@@ -1,7 +1,5 @@
-<h1 align="center"> Hi, I'm Md Danish Wali</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Backend+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;BTech+CSE+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Md+Danish+Wali;BTech+CSE+Student;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Cool+Projects+%F0%9F%9A%80" />
 </p>
 
 Frontend & MERN Stack Developer from India  
@@ -77,13 +75,18 @@ Full-stack e-commerce website with authentication, cart system, and order manage
 ---
 
 ##  Connect With Me
-
-Email: danishwali3919@gmail.com
-
-LinkedIn: https://linkedin.com/in/danish-wali-160946278/
-
-GitHub: https://github.com/Danishwali2069
-
+<p align="center">
+  <a href="https://linkedin.com/in/danish-wali-160946278/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="danishwali3919@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/Danishwali2069">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+<br>
 Portfolio: https://danishwali2069.github.io/Portfolio/
 
 ---
