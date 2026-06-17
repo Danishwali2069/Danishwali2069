@@ -74,8 +74,7 @@ Full-stack e-commerce website with authentication, cart system, and order manage
 
 ---
 
-##  Connect With Me
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/danish-wali-160946278">
