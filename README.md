@@ -2,8 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Md+Danish+Wali;BTech+CSE+Student;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Cool+Projects+%F0%9F%9A%80" />
 </p>
 
-Frontend & MERN Stack Developer from India  
-Passionate about AI/ML, Computer Vision, and scalable web applications  
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BTech-CSE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p> 
 
 ---
 
@@ -75,19 +85,25 @@ Full-stack e-commerce website with authentication, cart system, and order manage
 ---
 
 ##  Connect With Me
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/danish-wali-160946278/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://linkedin.com/in/danish-wali-160946278">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="danishwali3919@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+
+  <a href="mailto:danishwali3919@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
   <a href="https://github.com/Danishwali2069">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://danishwali2069.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
-<br>
-Portfolio: https://danishwali2069.github.io/Portfolio/
 
 ---
 <img width="1920" height="1080" alt="githubgif" src="https://github.com/user-attachments/assets/973a33b5-7e75-44b2-a2d2-f5bec7d44009" />
